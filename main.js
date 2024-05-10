@@ -1,4 +1,4 @@
-const botoes = document.querySelectorAll(".botao");
+ const botoes = document.querySelectorAll(".botao");
 const textos = document.querySelectorAll(".aba-conteudo");
 const contadores = document.querySelectorAll(".contador");
 
