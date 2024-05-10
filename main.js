@@ -19,7 +19,7 @@
         textos[i].classList.add("ativo");
     }
 }
-function calculaTempo(tempoObjetivo) {
+ function calculaTempo(tempoObjetivo) {
     let tempoAtual = new Date();
     let tempoFinal = tempoObjetivo - tempoAtual;
     let segundos = Math.floor(tempoFinal / 1000);
